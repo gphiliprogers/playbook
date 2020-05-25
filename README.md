@@ -14,10 +14,10 @@ The Quick Start Guides consist of brief summaries of what I've found to be effec
 **Scrum Topics:**
 
 + [Backlog Refinement Quick Start Guide](#backlog-refinement-quick-start-guide)
-+ Daily Scrum Quick Start Guide
-+ Sprint Planning Quick Start Guide
-+ Sprint Review Quick Start Guide
-+ Sprint Retrospective Quick Start Guide
++ [Daily Scrum Quick Start Guide](#daily-scrum-quick-start-guide)
++ [Sprint Planning Quick Start Guide](#sprint-planning-quick-start-guide)
++ [Sprint Review Quick Start Guide](#sprint-review-quick-start-guide)
++ [Sprint Retrospective Quick Start Guide](#sprint-retrospective-quick-start-guide)
 
 **Additional Topics:**
 
