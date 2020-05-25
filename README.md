@@ -468,6 +468,6 @@ Because the technical approach can vary significantly, depending on the product,
   + By way of contrast, wireframes or mockups are artifacts which often are specific to a single story, and as such, it's a common practice to attach or embed such artifacts in the story (linking to such artifacts is often acceptable too). 
   + Some teams outline the technical approach they are going to follow to implement a story as a series of steps. Each step is often referred to as a "Task," and the process of figuring out what those steps are is called "task decomposition." (in Jira, it is common to use sub-tasks for this purpose). 
 
-*Note: Jira (and many other tools) support the practice of entering time (typically in hours) associated with tasks. Many  Agile practitioners consider the entry of tasks, not to mention the task duration (i.e., “burning down” the hours) as a form of waste. In other words, the most important thing to focus on is task completion, not on spending time specifying that a particular task is half-done about lunch time, and three-quarters done at the end of the work day.+
+*Note: Jira (and many other tools) support the practice of entering time (typically in hours) associated with tasks. Many  Agile practitioners consider the entry of tasks, not to mention the task duration (i.e., “burning down” the hours) as a form of waste. In other words, the most important thing to focus on is task completion, not on spending time specifying that a particular task is half-done about lunch time, and three-quarters done at the end of the work day.*
 
 
