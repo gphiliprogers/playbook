@@ -1,4 +1,4 @@
-# playbook
+# Playbook
 
 What you'll find here are samples of content I've written that is not published on my blog. I'm using the term "Playbook" because it's one way of referring to a set of guidelines that can be helpful in many different organizational contexts, and what you'll find here are examples of such content that I've written. 
 
@@ -103,7 +103,8 @@ An example of a “Daily Standup Routine” is as follows:
 + Update the board (if the workflow state of any work item was updated during the conversation) 
 
 Note: H/T to Jimmy Janlén for the "Daily Standup Routine" idea, in his book [Toolbox for the Agile Coach: Visualization Examples](https://visualizationexamples.com/).
- 
+
+Note 2: See also [Daily Standup Patterns](https://medium.com/agile-outside-the-box/daily-standup-patterns-d69ff48e1087) 
 
 ### Sprint Planning Quick Start Guide 
 
