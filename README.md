@@ -13,7 +13,7 @@ The Quick Start Guides consist of brief summaries of what I've found to be effec
 
 **Scrum Topics:**
 
-+ [Backlog Refinement Quick Start Guide](<a href="#BR">)
++ [Backlog Refinement Quick Start Guide](#backlog-refinement-quick-start-guide)
 + Daily Scrum Quick Start Guide
 + Sprint Planning Quick Start Guide
 + Sprint Review Quick Start Guide
@@ -23,9 +23,9 @@ The Quick Start Guides consist of brief summaries of what I've found to be effec
 
 + Story Splitting Quick Start Guide (to be added in a later commmit)
 + Writing Well-Articulated User Stories Quick Start Guide (to be added in a later commit)
-<a name="BR"> 
-### Backlog Refinement Quick Start Guide 
-</a>
+
+### Backlog Refinement Quick Start Guide
+
 Introductory Note: Backlog Refinement (also known as Backlog Grooming) is an activity that is not part of the [Scrum Guide](https://www.scrumguides.org/scrum-guide.html). However, the practice of Backlog Refinement is so common among Scrum teams that some practitioners consider it a Generally Accepted Scrum Practice (GASP). 
 
 #### Definition
