@@ -188,7 +188,7 @@ Team context plays a significant role in the duration of a Sprint Retrospective.
 
 (+) *The universe of potential approaches for retrospective facilitation is vast. Teams are far more likely to get value out of Sprint Retrospectives over time if and when the questions that are asked and the way in which they are framed and answered varies from one Sprint to another.*
  
-### Sprint Review Job Aid 
+### Sprint Review Quick Start Guide
 
 #### Definition 
 The Sprint Review is a meeting that focuses on making sure there is complete clarity on what a team finished during a Sprint, and what they expect to work on next. There are several key aspects of the Sprint Review: 
