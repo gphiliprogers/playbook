@@ -13,7 +13,7 @@ The Quick Start Guides consist of brief summaries of what I've found to be effec
 
 **Scrum Topics:**
 
-+ [Backlog Refinement Quick Start Guide](<a href="#BR"></a>)
++ [Backlog Refinement Quick Start Guide](<a href="#BR">)
 + Daily Scrum Quick Start Guide
 + Sprint Planning Quick Start Guide
 + Sprint Review Quick Start Guide
