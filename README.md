@@ -1,8 +1,8 @@
 # Playbook
 
-What you'll find here are samples of content I've written that is not published on my blog. I'm using the term "Playbook" because it's one way of referring to a set of guidelines that can be helpful in many different organizational contexts, and what you'll find here are examples of such content that I've written. 
+What you'll find here are samples of content I've written that is not published on my blog. I'm using the term "Playbook" to refer to this whole batch of content because it's one way of referring to a set of guidelines that can be helpful in many different organizational contexts. 
 
-The content is organized based on the following categories:
+The content is organized as follows:
 
 + Quick Start Guides
 + (more categoreis to follow)
