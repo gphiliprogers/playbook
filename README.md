@@ -369,15 +369,16 @@ Just as is the case with other types of titles (aka headlines), a story title sh
 Note: The story title maps to the "Summary" field in Jira. 
 
 ##### Story Title Format
-The following format is recommended for story titles: <role> <action> [<context>]
+The following format is recommended for story titles: (role) (action) (context>)
 
 For example:
   + Primary applicant enters passcode
-where ...
-<role> = Primary applicant 
-<action> = enters passcode 
 
-*Note: <role> and <action> are required, whereas <context> is optional in the title. For instance, when there are many user stories with similar titles, the addition of context can help distinguish between them. In the example above, perhaps it will be possible for the user to enter a passcode in different places in the application being built, or perhaps there is more than one kind of passcode. In such cases, adding context could add clarity, such as "Primary applicant enters passcode on <page type>, or Primary applicant enters passcode <type of passcode>.* 
+where ...
+(role) = Primary applicant 
+(action>) = enters passcode 
+
+*Note: (role) and (action) are required, whereas (context) is optional in the title. For instance, when there are many user stories with similar titles, the addition of context can help distinguish between them. In the example above, perhaps it will be possible for the user to enter a passcode in different places in the application being built, or perhaps there is more than one kind of passcode. In such cases, adding context could add clarity, such as "Primary applicant enters passcode on (page type), or Primary applicant enters passcode (type of passcode).* 
 
 #### Story Description
 The canonical format for a story description is as described below. Here are some things to keep in mind when writing the story description. Think in terms of inputs and outputs: 
@@ -395,9 +396,9 @@ Note: The story description maps to the Description field in Jira.
 
 ##### Story Description Format 
 The canonical format for a story description is 
-  + As a <role/persona/user type>
-  + I want <goal or action
-  + So that <desired result from goal/action> 
+  + As a (role/persona/user type)
+  + I want (goal or action)
+  + So that (desired result from goal/action)
 
 For example: 
   + As a primary applicant
