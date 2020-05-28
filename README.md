@@ -369,14 +369,14 @@ Just as is the case with other types of titles (aka headlines), a story title sh
 Note: The story title maps to the "Summary" field in Jira. 
 
 ##### Story Title Format
-The following format is recommended for story titles: (role) (action) (context>)
+The following format is recommended for story titles: (role) (action) (context)
 
 For example:
   + Primary applicant enters passcode
 
 where ...
 (role) = Primary applicant 
-(action>) = enters passcode 
+(action) = enters passcode 
 
 *Note: (role) and (action) are required, whereas (context) is optional in the title. For instance, when there are many user stories with similar titles, the addition of context can help distinguish between them. In the example above, perhaps it will be possible for the user to enter a passcode in different places in the application being built, or perhaps there is more than one kind of passcode. In such cases, adding context could add clarity, such as "Primary applicant enters passcode on (page type), or Primary applicant enters passcode (type of passcode).* 
 
