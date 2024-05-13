@@ -2,11 +2,6 @@
 
 What you'll find here are samples of content I've written that is not published on my blog. I'm using the term "Playbook" to refer to this whole batch of content because it's one way of referring to a set of guidelines that can be helpful in many different organizational contexts. 
 
-The content is organized as follows:
-
-+ Quick Start Guides
-+ (more categoreis to follow)
-
 ## Quick Start Guides
 
 The Quick Start Guides consist of brief summaries of what I've found to be effective when working with teams, and which are likely to be particularly helpful to anyone who would like some general guidelines, which are not intended to be prescriptive, but which can serve as a baseline for any team to work from. Most of the Quick Start Guides focus on Scrum-related topics (Scrum Events). The rest of them cover other areas that we often encounter as facilitators.
